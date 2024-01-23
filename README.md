@@ -16,7 +16,7 @@
 
 <h2 align = "center">Skills</h2>
 
-<p>
+<p align = "center">
 <a href ="#"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
 <a><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
 <a><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
@@ -25,7 +25,7 @@
 
 <h2 align = "center">Frameworks and Libreries</h2>
 
-<p>
+<p align = "center">
 <a href="#"><img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?logo=react&logoColor=black"></a>
 <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
 
