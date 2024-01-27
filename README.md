@@ -9,12 +9,12 @@
 <h2 align = "center">Skills</h2>
 
 <p align = "center">
-<a href ="#"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
+<a><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
 <a><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
 <a><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
 <a><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
 <a><img alt="CSS" src="https://img.shields.io/badge/PHP-P%20H%20P?style=flat&logo=php&logoColor=white&color=%23777BB4"></a>
-<a><img alt = 'phpMyadmin' src = 'https://img.shields.io/badge/phpMyAdmin-Php?style=flat&logo=phpmyadmin&logoColor=white&color=%236C78AF'></a>
+<a><img alt='phpMyadmin' src='https://img.shields.io/badge/phpMyAdmin-Php?style=flat&logo=phpmyadmin&logoColor=white&color=%236C78AF'></a>
 
 </p>
 
