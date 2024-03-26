@@ -4,7 +4,7 @@
 <p align = "center">
 <img height="50%" width="auto" src = "https://github-readme-stats.vercel.app/api?username=Tiramisush1&theme=dracula&show_icons=true&hide_border=false&count_private=true">
 <img height="50%" width="auto" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Tiramisush1&theme=vue-dark&show_icons=true&hide_border=false&layout=compact">
-<img height = "50%" width = "auto" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Tiramisush1&theme=vue-dark&show_icons=true&hide_border=true&layout=compac">
+<img height="50%" width="auto" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Tiramisush1&theme=vue-dark&show_icons=true&hide_border=true&layout=compac">
 </p>
 
 <h2 align = "center">Skills</h2>
