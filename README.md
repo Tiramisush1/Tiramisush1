@@ -48,5 +48,5 @@
 <h2 align = "center">Actualmente Inactivo</h2>
 
 ```math
-\ce{$\unicode[color:red; pointer-events: none; z-index: 0; position: fixed; top: 0; left: 0; height: 100vh; width: 100vw; opacity: 0.20; background: url('') no-repeat center center fixed; background-size: cover;]{x0000}$}
+\ce{$\unicode[color:red; pointer-events: none; z-index: 0; position: fixed; top: 0; left: 0; height: 100vh; width: 100vw; opacity: 0.20; background: url('https://raw.githubusercontent.com/Tiramisush1/Tiramisush1/main/wallpapers/wallpaper.jpg') no-repeat center center fixed; background-size: cover;]{x0000}$}
 ```
